@@ -1,0 +1,23 @@
+group,title_en,title_ar,label,owner,kind
+Immuno-oncology (PD-1/PD-L1),Pembrolizumab,بمبروليزوماب,Keytruda (pembrolizumab),MSD,product
+Immuno-oncology (PD-1/PD-L1),Nivolumab,نيفولوماب,Opdivo (nivolumab),Bristol Myers Squibb,product
+Immuno-oncology (PD-1/PD-L1),Atezolizumab,أتيزوليزوماب,Tecentriq (atezolizumab),Roche,product
+Immuno-oncology (PD-1/PD-L1),Durvalumab,دورفالوماب,Imfinzi (durvalumab),AstraZeneca,product
+Immuno-oncology (PD-1/PD-L1),Cemiplimab,سيميبليماب,Libtayo (cemiplimab),Regeneron/Sanofi,product
+Type 2 diabetes,Sitagliptin,سيتاغلبتين,Januvia (sitagliptin),MSD,product
+Type 2 diabetes,Linagliptin,ليناغلبتين,Trajenta (linagliptin),Boehringer Ingelheim/Lilly,product
+Type 2 diabetes,Empagliflozin,أمباغليفلوزين,Jardiance (empagliflozin),Boehringer Ingelheim/Lilly,product
+Type 2 diabetes,Dapagliflozin,داباغليفلوزين,Farxiga (dapagliflozin),AstraZeneca,product
+Type 2 diabetes,Semaglutide,سيماغلوتايد,Ozempic/Wegovy (semaglutide),Novo Nordisk,product
+Type 2 diabetes,Tirzepatide,تيرزيباتيد,Mounjaro/Zepbound (tirzepatide),Lilly,product
+Vaccines,HPV vaccine,لقاح فيروس الورم الحليمي البشري,HPV vaccine (Gardasil),MSD,product
+Vaccines,Pneumococcal vaccine,لقاح المكورة الرئوية,"Pneumococcal vaccine (Capvaxive, Vaxneuvance, Prevnar)",Shared,product
+Vaccines,Rotavirus vaccine,لقاح الفيروس العجلي,"Rotavirus vaccine (RotaTeq, Rotarix)",Shared,product
+Pulmonary arterial hypertension,Sotatercept,,Winrevair (sotatercept),MSD,product
+Pulmonary arterial hypertension,Macitentan,ماسيتينتان,Opsumit (macitentan),Johnson & Johnson,product
+Pulmonary arterial hypertension,Selexipag,سيليكسيباغ,Uptravi (selexipag),Johnson & Johnson,product
+Diseases,Lung cancer,سرطان الرئة,Lung cancer,,disease
+Diseases,Melanoma,ورم ميلانيني,Melanoma,,disease
+Diseases,Type 2 diabetes,سكري النوع الثاني,Type 2 diabetes,,disease
+Diseases,Cervical cancer,سرطان عنق الرحم,Cervical cancer,,disease
+Diseases,Pulmonary hypertension,فرط ضغط الدم الرئوي,Pulmonary hypertension,,disease
