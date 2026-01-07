@@ -1,0 +1,21 @@
+export type Article = { group: string; title_en: string; title_ar: string; label: string; owner: string; kind: "product" | "disease" };
+export type Share = { article: string; label: string; group: string; owner: string; msd: boolean; views12m: number; viewsPrior12m: number; yoy: number | null; share12m: number; sharePrior12m: number };
+export type Disease = { article: string; label: string; views12m: number; viewsPrior12m: number; yoy: number | null };
+export type Mover = { article: string; label: string; last7: number; avgPrior4w: number; change: number };
+export type Spike = { article: string; label: string; week: string; views: number; ratio: number; z: number; event: string | null };
+export type Arabic = { article: string; label: string; group: string; titleAr: string; ar12m: number | null; en12m: number; arPerEn: number | null };
+export type Check = { id: string; check: string; status: "pass" | "warn" | "fail" | "info"; result: string; rule: string };
+export type Pulse = {
+  through: string;
+  rows: number;
+  articles: Article[];
+  shareOfVoice: Share[];
+  diseases: Disease[];
+  movers: Mover[];
+  spikes: Spike[];
+  arabic: Arabic[];
+  monthly: { a: string; l: string; m: string; v: number }[];
+  weekly: { a: string; l: string; w: string; v: number }[];
+  checks: Check[];
+  spikeRule: { z: number; ratio: number; window: number; minViews: number };
+};
