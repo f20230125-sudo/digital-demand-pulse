@@ -3940,6 +3940,9 @@ Pembrolizumab,en,20261012,293
 Pembrolizumab,en,20261013,341
 Pembrolizumab,en,20261014,357
 Pembrolizumab,en,20261015,367
+Pembrolizumab,en,20261016,273
+Pembrolizumab,en,20261017,209
+Pembrolizumab,en,20261018,198
 Pembrolizumab,ar,20160303,2
 Pembrolizumab,ar,20160304,4
 Pembrolizumab,ar,20160305,1
@@ -7739,6 +7742,9 @@ Pembrolizumab,ar,20261012,1
 Pembrolizumab,ar,20261013,2
 Pembrolizumab,ar,20261014,0
 Pembrolizumab,ar,20261015,0
+Pembrolizumab,ar,20261016,0
+Pembrolizumab,ar,20261017,0
+Pembrolizumab,ar,20261018,1
 Nivolumab,en,20160101,315
 Nivolumab,en,20160102,359
 Nivolumab,en,20160103,368
@@ -11680,6 +11686,9 @@ Nivolumab,en,20261012,114
 Nivolumab,en,20261013,135
 Nivolumab,en,20261014,115
 Nivolumab,en,20261015,113
+Nivolumab,en,20261016,142
+Nivolumab,en,20261017,94
+Nivolumab,en,20261018,62
 Nivolumab,ar,20160101,0
 Nivolumab,ar,20160103,4
 Nivolumab,ar,20160104,2
@@ -15499,6 +15508,9 @@ Nivolumab,ar,20261012,1
 Nivolumab,ar,20261013,0
 Nivolumab,ar,20261014,0
 Nivolumab,ar,20261015,0
+Nivolumab,ar,20261016,2
+Nivolumab,ar,20261017,0
+Nivolumab,ar,20261018,0
 Atezolizumab,en,20160101,28
 Atezolizumab,en,20160102,38
 Atezolizumab,en,20160103,30
@@ -19440,6 +19452,9 @@ Atezolizumab,en,20261012,62
 Atezolizumab,en,20261013,77
 Atezolizumab,en,20261014,64
 Atezolizumab,en,20261015,95
+Atezolizumab,en,20261016,38
+Atezolizumab,en,20261017,37
+Atezolizumab,en,20261018,28
 Atezolizumab,ar,20190302,1
 Atezolizumab,ar,20190303,0
 Atezolizumab,ar,20190304,1
@@ -21852,6 +21867,8 @@ Atezolizumab,ar,20261011,1
 Atezolizumab,ar,20261012,0
 Atezolizumab,ar,20261014,1
 Atezolizumab,ar,20261015,0
+Atezolizumab,ar,20261016,0
+Atezolizumab,ar,20261017,0
 Durvalumab,en,20160101,5
 Durvalumab,en,20160102,6
 Durvalumab,en,20160103,6
@@ -25793,6 +25810,9 @@ Durvalumab,en,20261012,63
 Durvalumab,en,20261013,49
 Durvalumab,en,20261014,64
 Durvalumab,en,20261015,64
+Durvalumab,en,20261016,63
+Durvalumab,en,20261017,19
+Durvalumab,en,20261018,31
 Durvalumab,ar,20240302,3
 Durvalumab,ar,20240303,1
 Durvalumab,ar,20240304,2
@@ -26465,6 +26485,7 @@ Durvalumab,ar,20261011,1
 Durvalumab,ar,20261012,0
 Durvalumab,ar,20261013,0
 Durvalumab,ar,20261014,1
+Durvalumab,ar,20261018,0
 Cemiplimab,en,20170911,3
 Cemiplimab,en,20170913,5
 Cemiplimab,en,20170914,1
@@ -29703,6 +29724,9 @@ Cemiplimab,en,20261012,24
 Cemiplimab,en,20261013,22
 Cemiplimab,en,20261014,22
 Cemiplimab,en,20261015,41
+Cemiplimab,en,20261016,40
+Cemiplimab,en,20261017,13
+Cemiplimab,en,20261018,17
 Cemiplimab,ar,20240518,1
 Cemiplimab,ar,20240521,0
 Cemiplimab,ar,20240522,0
@@ -30211,6 +30235,8 @@ Cemiplimab,ar,20261012,0
 Cemiplimab,ar,20261013,0
 Cemiplimab,ar,20261014,0
 Cemiplimab,ar,20261015,1
+Cemiplimab,ar,20261016,0
+Cemiplimab,ar,20261018,0
 Sitagliptin,en,20160101,397
 Sitagliptin,en,20160102,433
 Sitagliptin,en,20160103,463
@@ -34152,6 +34178,9 @@ Sitagliptin,en,20261012,159
 Sitagliptin,en,20261013,182
 Sitagliptin,en,20261014,211
 Sitagliptin,en,20261015,182
+Sitagliptin,en,20261016,177
+Sitagliptin,en,20261017,114
+Sitagliptin,en,20261018,99
 Sitagliptin,ar,20160303,1
 Sitagliptin,ar,20160304,1
 Sitagliptin,ar,20160305,1
@@ -38004,6 +38033,9 @@ Sitagliptin,ar,20261012,0
 Sitagliptin,ar,20261013,1
 Sitagliptin,ar,20261014,0
 Sitagliptin,ar,20261015,0
+Sitagliptin,ar,20261016,2
+Sitagliptin,ar,20261017,0
+Sitagliptin,ar,20261018,0
 Linagliptin,en,20160101,96
 Linagliptin,en,20160102,106
 Linagliptin,en,20160103,114
@@ -41945,6 +41977,9 @@ Linagliptin,en,20261012,49
 Linagliptin,en,20261013,49
 Linagliptin,en,20261014,71
 Linagliptin,en,20261015,66
+Linagliptin,en,20261016,40
+Linagliptin,en,20261017,43
+Linagliptin,en,20261018,25
 Linagliptin,ar,20200710,29
 Linagliptin,ar,20200711,7
 Linagliptin,ar,20200712,5
@@ -44226,6 +44261,8 @@ Linagliptin,ar,20261012,2
 Linagliptin,ar,20261013,1
 Linagliptin,ar,20261014,1
 Linagliptin,ar,20261015,1
+Linagliptin,ar,20261016,0
+Linagliptin,ar,20261018,1
 Empagliflozin,en,20160101,99
 Empagliflozin,en,20160102,149
 Empagliflozin,en,20160103,106
@@ -48167,6 +48204,9 @@ Empagliflozin,en,20261012,222
 Empagliflozin,en,20261013,241
 Empagliflozin,en,20261014,243
 Empagliflozin,en,20261015,235
+Empagliflozin,en,20261016,230
+Empagliflozin,en,20261017,182
+Empagliflozin,en,20261018,144
 Empagliflozin,ar,20160101,0
 Empagliflozin,ar,20160102,0
 Empagliflozin,ar,20160105,1
@@ -51887,6 +51927,9 @@ Empagliflozin,ar,20261012,2
 Empagliflozin,ar,20261013,1
 Empagliflozin,ar,20261014,0
 Empagliflozin,ar,20261015,6
+Empagliflozin,ar,20261016,3
+Empagliflozin,ar,20261017,2
+Empagliflozin,ar,20261018,0
 Dapagliflozin,en,20160101,486
 Dapagliflozin,en,20160102,197
 Dapagliflozin,en,20160103,167
@@ -55828,6 +55871,9 @@ Dapagliflozin,en,20261012,730
 Dapagliflozin,en,20261013,785
 Dapagliflozin,en,20261014,826
 Dapagliflozin,en,20261015,812
+Dapagliflozin,en,20261016,741
+Dapagliflozin,en,20261017,550
+Dapagliflozin,en,20261018,477
 Dapagliflozin,ar,20160711,17
 Dapagliflozin,ar,20160712,2
 Dapagliflozin,ar,20160713,2
@@ -59562,6 +59608,9 @@ Dapagliflozin,ar,20261012,3
 Dapagliflozin,ar,20261013,0
 Dapagliflozin,ar,20261014,0
 Dapagliflozin,ar,20261015,0
+Dapagliflozin,ar,20261016,3
+Dapagliflozin,ar,20261017,0
+Dapagliflozin,ar,20261018,2
 Semaglutide,en,20160411,6
 Semaglutide,en,20160412,28
 Semaglutide,en,20160413,34
@@ -63402,6 +63451,9 @@ Semaglutide,en,20261012,1295
 Semaglutide,en,20261013,1182
 Semaglutide,en,20261014,1116
 Semaglutide,en,20261015,1100
+Semaglutide,en,20261016,1120
+Semaglutide,en,20261017,963
+Semaglutide,en,20261018,982
 Semaglutide,ar,20190926,28
 Semaglutide,ar,20190927,13
 Semaglutide,ar,20190928,3
@@ -65975,6 +66027,9 @@ Semaglutide,ar,20261012,3
 Semaglutide,ar,20261013,3
 Semaglutide,ar,20261014,2
 Semaglutide,ar,20261015,4
+Semaglutide,ar,20261016,1
+Semaglutide,ar,20261017,2
+Semaglutide,ar,20261018,2
 Tirzepatide,en,20210708,1
 Tirzepatide,en,20211221,22
 Tirzepatide,en,20211222,41
@@ -67736,6 +67791,9 @@ Tirzepatide,en,20261012,1048
 Tirzepatide,en,20261013,1045
 Tirzepatide,en,20261014,1001
 Tirzepatide,en,20261015,995
+Tirzepatide,en,20261016,1011
+Tirzepatide,en,20261017,892
+Tirzepatide,en,20261018,810
 Tirzepatide,ar,20220519,17
 Tirzepatide,ar,20220520,10
 Tirzepatide,ar,20230729,33
@@ -68913,6 +68971,9 @@ Tirzepatide,ar,20261012,7
 Tirzepatide,ar,20261013,2
 Tirzepatide,ar,20261014,0
 Tirzepatide,ar,20261015,5
+Tirzepatide,ar,20261016,1
+Tirzepatide,ar,20261017,2
+Tirzepatide,ar,20261018,3
 HPV vaccine,en,20160101,72
 HPV vaccine,en,20160102,117
 HPV vaccine,en,20160103,99
@@ -72854,6 +72915,9 @@ HPV vaccine,en,20261012,216
 HPV vaccine,en,20261013,248
 HPV vaccine,en,20261014,252
 HPV vaccine,en,20261015,281
+HPV vaccine,en,20261016,207
+HPV vaccine,en,20261017,163
+HPV vaccine,en,20261018,189
 HPV vaccine,ar,20160429,1
 HPV vaccine,ar,20160430,1
 HPV vaccine,ar,20160501,1
@@ -76550,6 +76614,9 @@ HPV vaccine,ar,20261012,1
 HPV vaccine,ar,20261013,5
 HPV vaccine,ar,20261014,6
 HPV vaccine,ar,20261015,11
+HPV vaccine,ar,20261016,1
+HPV vaccine,ar,20261017,2
+HPV vaccine,ar,20261018,5
 Pneumococcal vaccine,en,20160101,198
 Pneumococcal vaccine,en,20160102,262
 Pneumococcal vaccine,en,20160103,230
@@ -80491,6 +80558,9 @@ Pneumococcal vaccine,en,20261012,129
 Pneumococcal vaccine,en,20261013,145
 Pneumococcal vaccine,en,20261014,166
 Pneumococcal vaccine,en,20261015,193
+Pneumococcal vaccine,en,20261016,157
+Pneumococcal vaccine,en,20261017,120
+Pneumococcal vaccine,en,20261018,133
 Pneumococcal vaccine,ar,20160101,1
 Pneumococcal vaccine,ar,20160102,2
 Pneumococcal vaccine,ar,20160103,0
@@ -84403,6 +84473,9 @@ Pneumococcal vaccine,ar,20261012,6
 Pneumococcal vaccine,ar,20261013,2
 Pneumococcal vaccine,ar,20261014,4
 Pneumococcal vaccine,ar,20261015,2
+Pneumococcal vaccine,ar,20261016,3
+Pneumococcal vaccine,ar,20261017,2
+Pneumococcal vaccine,ar,20261018,2
 Rotavirus vaccine,en,20160101,164
 Rotavirus vaccine,en,20160102,246
 Rotavirus vaccine,en,20160103,207
@@ -88344,6 +88417,9 @@ Rotavirus vaccine,en,20261012,31
 Rotavirus vaccine,en,20261013,36
 Rotavirus vaccine,en,20261014,24
 Rotavirus vaccine,en,20261015,40
+Rotavirus vaccine,en,20261016,38
+Rotavirus vaccine,en,20261017,25
+Rotavirus vaccine,en,20261018,12
 Rotavirus vaccine,ar,20180209,41
 Rotavirus vaccine,ar,20180210,33
 Rotavirus vaccine,ar,20180211,3
@@ -91499,6 +91575,9 @@ Rotavirus vaccine,ar,20261012,0
 Rotavirus vaccine,ar,20261013,0
 Rotavirus vaccine,ar,20261014,3
 Rotavirus vaccine,ar,20261015,2
+Rotavirus vaccine,ar,20261016,0
+Rotavirus vaccine,ar,20261017,0
+Rotavirus vaccine,ar,20261018,0
 Sotatercept,en,20161204,3
 Sotatercept,en,20231104,14
 Sotatercept,en,20231105,12
@@ -92577,6 +92656,9 @@ Sotatercept,en,20261012,36
 Sotatercept,en,20261013,31
 Sotatercept,en,20261014,24
 Sotatercept,en,20261015,17
+Sotatercept,en,20261016,32
+Sotatercept,en,20261017,12
+Sotatercept,en,20261018,15
 Macitentan,en,20160101,23
 Macitentan,en,20160102,36
 Macitentan,en,20160103,20
@@ -96518,6 +96600,9 @@ Macitentan,en,20261012,17
 Macitentan,en,20261013,34
 Macitentan,en,20261014,25
 Macitentan,en,20261015,23
+Macitentan,en,20261016,21
+Macitentan,en,20261017,4
+Macitentan,en,20261018,8
 Macitentan,ar,20240518,1
 Macitentan,ar,20240521,3
 Macitentan,ar,20240522,1
@@ -97265,6 +97350,7 @@ Macitentan,ar,20261007,0
 Macitentan,ar,20261010,0
 Macitentan,ar,20261012,1
 Macitentan,ar,20261014,0
+Macitentan,ar,20261016,0
 Selexipag,en,20160101,32
 Selexipag,en,20160102,45
 Selexipag,en,20160103,33
@@ -101206,6 +101292,9 @@ Selexipag,en,20261012,15
 Selexipag,en,20261013,21
 Selexipag,en,20261014,26
 Selexipag,en,20261015,17
+Selexipag,en,20261016,13
+Selexipag,en,20261017,7
+Selexipag,en,20261018,1
 Selexipag,ar,20230614,13
 Selexipag,ar,20230615,2
 Selexipag,ar,20230616,0
@@ -102099,6 +102188,7 @@ Selexipag,ar,20261012,0
 Selexipag,ar,20261013,0
 Selexipag,ar,20261014,2
 Selexipag,ar,20261015,0
+Selexipag,ar,20261016,1
 Lung cancer,en,20160101,2258
 Lung cancer,en,20160102,2509
 Lung cancer,en,20160103,2288
@@ -106040,6 +106130,9 @@ Lung cancer,en,20261012,619
 Lung cancer,en,20261013,1220
 Lung cancer,en,20261014,1241
 Lung cancer,en,20261015,806
+Lung cancer,en,20261016,709
+Lung cancer,en,20261017,676
+Lung cancer,en,20261018,645
 Lung cancer,ar,20160101,206
 Lung cancer,ar,20160102,195
 Lung cancer,ar,20160103,183
@@ -109981,6 +110074,9 @@ Lung cancer,ar,20261012,39
 Lung cancer,ar,20261013,40
 Lung cancer,ar,20261014,30
 Lung cancer,ar,20261015,46
+Lung cancer,ar,20261016,42
+Lung cancer,ar,20261017,35
+Lung cancer,ar,20261018,54
 Melanoma,en,20160101,2208
 Melanoma,en,20160102,2400
 Melanoma,en,20160103,2539
@@ -113922,6 +114018,9 @@ Melanoma,en,20261012,1091
 Melanoma,en,20261013,961
 Melanoma,en,20261014,1212
 Melanoma,en,20261015,1182
+Melanoma,en,20261016,909
+Melanoma,en,20261017,902
+Melanoma,en,20261018,954
 Melanoma,ar,20160101,21
 Melanoma,ar,20160102,12
 Melanoma,ar,20160103,20
@@ -117863,6 +117962,9 @@ Melanoma,ar,20261012,12
 Melanoma,ar,20261013,10
 Melanoma,ar,20261014,6
 Melanoma,ar,20261015,11
+Melanoma,ar,20261016,17
+Melanoma,ar,20261017,12
+Melanoma,ar,20261018,8
 Type 2 diabetes,en,20160101,150
 Type 2 diabetes,en,20160102,157
 Type 2 diabetes,en,20160103,123
@@ -121804,6 +121906,9 @@ Type 2 diabetes,en,20261012,522
 Type 2 diabetes,en,20261013,501
 Type 2 diabetes,en,20261014,480
 Type 2 diabetes,en,20261015,549
+Type 2 diabetes,en,20261016,472
+Type 2 diabetes,en,20261017,463
+Type 2 diabetes,en,20261018,468
 Type 2 diabetes,ar,20170115,44
 Type 2 diabetes,ar,20170116,39
 Type 2 diabetes,ar,20170117,39
@@ -125365,6 +125470,9 @@ Type 2 diabetes,ar,20261012,3
 Type 2 diabetes,ar,20261013,4
 Type 2 diabetes,ar,20261014,6
 Type 2 diabetes,ar,20261015,6
+Type 2 diabetes,ar,20261016,12
+Type 2 diabetes,ar,20261017,3
+Type 2 diabetes,ar,20261018,8
 Cervical cancer,en,20160101,998
 Cervical cancer,en,20160102,1261
 Cervical cancer,en,20160103,1312
@@ -129306,6 +129414,9 @@ Cervical cancer,en,20261012,482
 Cervical cancer,en,20261013,479
 Cervical cancer,en,20261014,338
 Cervical cancer,en,20261015,431
+Cervical cancer,en,20261016,381
+Cervical cancer,en,20261017,405
+Cervical cancer,en,20261018,473
 Cervical cancer,ar,20160101,4
 Cervical cancer,ar,20160102,7
 Cervical cancer,ar,20160103,9
@@ -133247,6 +133358,9 @@ Cervical cancer,ar,20261012,5
 Cervical cancer,ar,20261013,6
 Cervical cancer,ar,20261014,3
 Cervical cancer,ar,20261015,6
+Cervical cancer,ar,20261016,5
+Cervical cancer,ar,20261017,7
+Cervical cancer,ar,20261018,5
 Pulmonary hypertension,en,20160101,889
 Pulmonary hypertension,en,20160102,1139
 Pulmonary hypertension,en,20160103,1089
@@ -137188,6 +137302,9 @@ Pulmonary hypertension,en,20261012,270
 Pulmonary hypertension,en,20261013,243
 Pulmonary hypertension,en,20261014,254
 Pulmonary hypertension,en,20261015,226
+Pulmonary hypertension,en,20261016,221
+Pulmonary hypertension,en,20261017,244
+Pulmonary hypertension,en,20261018,204
 Pulmonary hypertension,ar,20160101,29
 Pulmonary hypertension,ar,20160102,28
 Pulmonary hypertension,ar,20160103,21
@@ -141129,3 +141246,6 @@ Pulmonary hypertension,ar,20261012,0
 Pulmonary hypertension,ar,20261013,1
 Pulmonary hypertension,ar,20261014,2
 Pulmonary hypertension,ar,20261015,4
+Pulmonary hypertension,ar,20261016,2
+Pulmonary hypertension,ar,20261017,0
+Pulmonary hypertension,ar,20261018,1
